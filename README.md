@@ -6,3 +6,6 @@ While AI labs have built basic 'Affective Computing' and 'Emotional Cognitive Mo
    1. The Negativity Bias Differential: Negative emotional metrics (Cortisol) decay significantly slower than positive metrics (Dopamine). This gives the AI a persistent mood state where a negative interaction colors subsequent turns.
    2. Dynamic Parallel Coexistence & Fusions: Opposing emotions do not cancel out mathematically. Instead, they run simultaneously to create complex, synthetic states like Nostalgia (Dopamine lack + Cortisol recall loop), Bitter Resentment (Sadness + Anger parallel process), and a situational Fight-or-Flight Fusion governed by real-time power metrics.
    3. The Absolute Threat Override: High-priority survival commands (Anger/Threat) act as a master interrupt, instantly zeroing out positive baseline states and restricting the Large Language Model's outputs to defensive, protective, or confrontational parameters.
+
+
+If you are interested in potential cooperation, please open a new Issue in this repository to ask for my email. I will reply to you as soon as possible.
